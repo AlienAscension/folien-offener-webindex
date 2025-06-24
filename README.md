@@ -1,6 +1,6 @@
-# Offener-Webindex
+#Folien für den Offenen-Webindex
 
-Kollaborativer Workspace für das Curriculum sowie die Vorlesungsfolien
+Kollaborativer Workspace für die Vortragsfolien
 
 ### Marp Syntax
 https://marpit.marp.app/image-syntax
