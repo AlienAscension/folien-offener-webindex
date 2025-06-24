@@ -1,21 +1,12 @@
-@charset "UTF-8";
 /*!
  * Marp theme
- * @theme webindex
- * @author Sonja
+ * @theme hahnec
+ * @author Christopher Hahne
  *
  * @auto-scaling true
  * @size 4:3 960px 720px
  * @size 16:9 1280px 720px
  */
-/*
-@import 'default';
-
-@import '~github-markdown-css';
-@import '~highlight.js/styles/github-gist';
-@import url("https://fonts.googleapis.com/css?family=Lato:400,900|IBM+Plex+Sans:400,700");
-*/
-
 :root {
   --background: #148ec8;
   --current-line: #0e5e83;
@@ -25,117 +16,18 @@
   --green: #50fa7b;
   --orange: #ffb86c;
   --pink: #DBB2D1;
-  --purple:#bd93f9;
+  --purple: #bd93f9;
   --red: #ff5555;
   --yellow: #FADA5E;
   --white: #ffffff;
 }
 
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
-  background: var(--background);
-}
-
-/* Foreground */
-.hljs,
-.hljs-subst,
-.hljs-typing,
-.hljs-variable,
-.hljs-template-variable {
-    color: var(--foreground);
-}
-
-/* Comment */
-.hljs-comment,
-.hljs-quote,
-.hljs-deletion {
-    color: var(--comment);
-}
-
-/* Cyan */
-.hljs-meta .hljs-doctag,
-.hljs-built_in,
-.hljs-selector-tag,hahnec
-
-
-/* Green */
-.hljs-title {
-    color: var(--green);
-}
-
-/* Orange */
-.hljs-params {
-    color: var(--orange);
-}
-
-/* Pink */
-.hljs-keyword {
-    color: var(--pink);
-}
-
-/* Purple */
-.hljs-literal,
-.hljs-number {
-    color: var(--purple);
-}
-
-/* Red */
-.hljs-regexp {
-    color: var(--red);
-}
-
-/* Yellow */
-.hljs-string,
-.hljs-name,
-.hljs-type,
-.hljs-attr,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition,
-.hljs-template-tag {
-    color: var(--yellow);
-}
-
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-title,
-.hljs-section,
-.hljs-doctag,
-.hljs-type,
-.hljs-name,
-.hljs-strong {
-  font-weight: bold;
-}
-
-.hljs-params,
-.hljs-emphasis {
- font-style: italic;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   margin: 0.5em 0 0 0;
   color: var(--foreground);
 }
-h1 strong,
-h2 strong,
-h3 strong,
-h4 strong,
-h5 strong,
-h6 strong {
+h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
   font-weight: inherit;
-}
-
-hr {
-  height: 0;
-  padding-top: 0.25em;
 }
 
 h1 {
@@ -162,211 +54,186 @@ h6 {
   font-size: 0.9em;
 }
 
-p,
-blockquote {
+p, blockquote {
   margin: 1em 0 0 0;
 }
 
-ul > li,
-ol > li {
-  margin: 0.3em 0 0 0;
-  color:  var(--white);
+ul, ol {
+  display: inline-block;
+  text-align: left;
 }
-ul > li > p,
-ol > li > p {
+ul > li, ol > li {
+  margin: 0.3em 0 0 0;
+  color: var(--white);
+}
+ul > li > p, ol > li > p {
   margin: 0.6em 0 0 0;
+}
+
+hr {
+  height: 0;
+  padding-top: 0.25em;
 }
 
 code {
   display: inline-block;
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.8em;
+  font-size: 0.95em;
   letter-spacing: 0;
   margin: -0.1em 0.15em;
-  padding: 0.1em 0.2em;
+  padding: 0.15em 0.3em;
   vertical-align: baseline;
+  background: var(--current-line);
   color: var(--green);
 }
 
 pre {
-    display: block;
-    margin: 1em 0 0 0;
-    min-height: 1em;
-    overflow: visible;
-    line-height: 1.15;
+  display: block;
+  margin: 1.5em 0;
+  overflow: auto;
+  line-height: 1.5;
+  background: var(--current-line);
+  padding: 1.25em 1.5em;
+  border-radius: 10px;
+  font-size: 1.1em;
 }
 pre code {
-    box-sizing: border-box;
-    margin: 0;
-    min-width: 100%;
-    padding: 0.5em;
-    font-size: 0.7em;
+  all: unset;
+  display: block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 1.5em;
+  color: inherit;
+  white-space: pre-wrap;
+  word-break: break-word;
 }
 pre code svg[data-marp-fitting=svg] {
-    max-height: calc(580px - 1em);
-}
-  
-blockquote {
-    margin: 0 10 0 0;
-    padding: 0 1em;
-    border-left: 1px solid #999;
-    border-width: 0.2em;
-    color: var(--foreground);
-}
-blockquote::before {
-    top: 0;
-    left: 0;
-}
-blockquote::after {
-    right: 0;
-    bottom: 0;
-    transform: rotate(180deg);
+  max-height: calc(580px - 1em);
 }
 
 mark {
   background: transparent;
+  color: var(--yellow);
 }
 
-table {
-  border-spacing: 10%;
-  border-collapse: collapse;
-  margin: 20px auto;
-  border-width: 2px;
-  border-style: solid;
-  padding-inline: 6px;
-  padding-top: 6px;
-  padding-bottom: 0px;
-  
-}
-table th,
-table td {
-  border-width: 2px;
-  border-style: solid;
-  padding-inline: 6px;
-  padding-top: 6px;
-  padding-bottom: 0px;
+.hljs-selector-tag, .hljs-title, .hljs-section, .hljs-doctag, .hljs-type, .hljs-name, .hljs-strong, .hljs-literal, .hljs-number, .hljs-keyword {
+  font-weight: bold;
 }
 
-section {
-  font-size: 25px;
-  font-family: sans-serif;
-  
-  letter-spacing: 1.25px;
-  padding: 70px;
+.hljs-emphasis, .hljs-params {
+  font-style: italic;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: var(--background);
+  text-align: left;
+}
+.hljs, .hljs-subst, .hljs-typing, .hljs-variable, .hljs-template-variable {
   color: var(--foreground);
-  background-color: var(--background);
 }
-section > *:first-child,
-section > header:first-child + * {
+.hljs-comment, .hljs-quote, .hljs-deletion {
+  color: var(--comment);
+}
+.hljs-meta .hljs-doctag, .hljs-built_in, .hljs-selector-tag, .hljs-section, .hljs-link, .hljs-class {
+  color: var(--cyan);
+}
+.hljs-title {
+  color: var(--green);
+}
+.hljs-params {
+  color: var(--orange);
+}
+.hljs-keyword {
+  color: var(--pink);
+}
+.hljs-literal, .hljs-number {
+  color: var(--purple);
+}
+.hljs-regexp {
+  color: var(--red);
+}
+.hljs-string, .hljs-name, .hljs-type, .hljs-attr, .hljs-symbol, .hljs-bullet, .hljs-addition, .hljs-template-tag {
+  color: var(--yellow);
+}
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 1280px;
+  height: 720px;
+  padding: 70px;
+  font-family: sans-serif;
+  font-size: 25px;
+  letter-spacing: 1.25px;
+  text-align: left;
+  background-color: var(--background);
+  color: var(--foreground);
+}
+section > *:first-child, section > header:first-child + * {
   margin-top: 0;
 }
-section a,
-section mark {
+section > *:last-child, section[data-footer] > :nth-last-child(2) {
+  margin-bottom: 0;
+}
+section a {
   color: var(--yellow);
   text-decoration: none;
 }
-a:hover, a:active, a:focus { 
+section a:hover, section a:active, section a:focus {
   color: var(--pink);
-  text-decoration: none;
 }
-section code {
-  background: var(--current-line);
-  color: var(--current-green);
-}
-section h1 strong,
-section h2 strong,
-section h3 strong,
-section h4 strong,
-section h5 strong,
-section h6 strong {
-  color: var(--current-line);
-}
-section pre > code {
-  background: var(--current-line);
-}
-section header,
-section footer,
-section section::after,
-section blockquote::before,
-section blockquote::after {
+section::after {
+  position: absolute;
+  right: 30px;
+  bottom: 21px;
+  padding: 0;
+  font-size: 24px;
   color: var(--orange);
 }
-section table th,
-section table td {
-  border-color:  var(--foreground);
+section.invert {
+  background-color: var(--foreground);
+  color: var(--background);
 }
-section table thead th {
-  background: var(--current-line);
-  color: var(--comment);
+section.invert::after {
+  color: #999;
 }
-section table tbody > tr:nth-child(even) td,
-section table tbody > tr:nth-child(even) th {
-  background: var(--current-line);
+section.invert img {
+  background-color: transparent;
 }
 
-header,
-footer,
-section::after {
+header, footer {
   box-sizing: border-box;
-  font-size: 66%;
+  position: absolute;
+  left: 0;
+  right: 0;
   height: 70px;
+  padding: 10px 25px;
+  font-size: 66%;
   line-height: 50px;
   overflow: hidden;
-  padding: 10px 25px;
-  position: absolute;
   color: var(--comment);
 }
 
 header {
-  left: 0;
-  right: 0;
   top: 0;
+}
+header a {
+  color: var(--foreground);
 }
 
 footer {
-  left: 0;
-  right: 0;
   bottom: 0;
-}
-
-section::after {
-  right: 0;
-  top: 0;
-  font-size: 80%;
-}
-
-/* custom */
-
-img[alt~="center"] {
-  display: block;
-  margin: 0 auto;
-}
-img[alt~="right"] {
-  display: block;
-  float: right;
-  margin-right: 0em;
-}
-img[alt~="middle"] {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-}
-
-footer {
-  width: 100%;
   height: 5%;
   bottom: 2.5%;
-  left: 0%;
-  background: linear-gradient(to left, var(--background) 10%, var(--foreground) 80%);
-  color: var(--background);
   display: flex;
   align-items: center;
+  background: linear-gradient(to left, var(--background) 10%, var(--foreground) 80%);
+  color: var(--background);
 }
-
-footer img{
+footer img {
   display: inline-block;
   vertical-align: middle;
   float: none;
@@ -376,54 +243,51 @@ footer img{
 footer a, footer a:visited {
   color: var(--background);
 }
-header a {
+
+blockquote {
+  margin: 0;
+  padding: 0 1em;
+  border-left: 0.2em solid #999;
   color: var(--foreground);
+  display: inline-block;
 }
 
-section {
-  @extend .markdown-body;
-
-  align-items: stretch;
-  background: var(--background);
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  font-size: 25px;
-  height: 720px;
-  justify-content: top;
-  padding: 78.5px;
-  width: 1280px;
-
-  > *:last-child,
-  &[data-footer] > :nth-last-child(2) {
-    margin-bottom: 0;
-  }
-
-  > *:first-child,
-  > header:first-child + * {
-    margin-top: 0;
-  }
-
-  &::after {
-    position: absolute;
-    padding: 0;
-    right: 30px;
-    bottom: 21px;
-    font-size: 24px;
-  }
-
-  &.invert {
-    background-color: var(--foreground);
-    color: var(--background);
-
-    &::after {
-      color: #999;
-    }
-
-    img {
-      background-color: transparent;
-    }
-
-  }
-  
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 20px auto;
+  border: 2px solid var(--foreground);
 }
+table th, table td {
+  padding: 6px;
+  border: 2px solid var(--foreground);
+}
+table thead th {
+  background: var(--current-line);
+  color: var(--comment);
+}
+table tbody > tr:nth-child(even) th, table tbody > tr:nth-child(even) td {
+  background: var(--current-line);
+}
+
+img[alt~=center] {
+  display: block;
+  margin: 0 auto;
+}
+
+img[alt~=right] {
+  display: block;
+  float: right;
+  margin-right: 0;
+}
+
+img[alt~=middle] {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+/*# sourceMappingURL=webindex.css.map */
