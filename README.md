@@ -5,11 +5,12 @@ Dies ist ein kollaborativer Workspace zur Erstellung von Vortragsfolien mit [Mar
 ## 📁 Projektstruktur
 
 ```
-├── README.md             # Diese Anleitung
+├── media/                # Images, used in the owi-presentation
 ├── themes/               # Design (nicht verändern!)
 │   ├── webindex.css
 │   ├── webindex.css.map
 │   └── webindex.scss
+├── README.md             # Diese Anleitung
 ├── vorlage.html          # Exportierte HTML-Präsentation (Beispiel)
 └── vorlage.md            # Deine Markdown-Folien
 ```
