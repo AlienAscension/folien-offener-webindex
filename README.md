@@ -2,17 +2,33 @@
 
 Dies ist ein kollaborativer Workspace zur Erstellung von Vortragsfolien mit [Marp](https://marp.app/), einem Framework zur Erstellung von Präsentationen im Markdown-Format.
 
+## 🛠️ Voraussetzungen
+
+Um die Markdown-Dateien in Präsentationen umwandeln zu können, wird **Marp CLI** benötigt. Stelle sicher, dass du [Node.js](https://nodejs.org/) (inkl. npm) installiert hast.
+
+Anschließend installierst du Marp CLI global auf deinem System mit folgendem Befehl im Terminal:
+
+```bash
+npm install -g @marp-team/marp-cli
+```
+
+---
+
 ## 📁 Projektstruktur
 
 ```
-├── media/                # Images, used in the owi-presentation
-├── themes/               # Design (nicht verändern!)
-│   ├── webindex.css
-│   ├── webindex.css.map
-│   └── webindex.scss
-├── README.md             # Diese Anleitung
-├── vorlage.html          # Exportierte HTML-Präsentation (Beispiel)
-└── vorlage.md            # Deine Markdown-Folien
+├── media/ # Bilder zur Verwendung in Präsentationen
+    └── Ein paar Bilddateien
+├── themes/ # Zentrales Design (nicht verändern!)
+│   ├── webindex.css
+│   ├── webindex.css.map
+│   └── webindex.scss
+├── owi-workshop.md # Markdown-Datei für OWI-Workshop-Folien
+├── owi-workshop.html # Exportierte HTML-Version des OWI-Workshops
+├── owi-workshop.pdf # Exportierte PDF-Version des OWI-Workshops
+├── vorlage.md # Beispiel-Markdown-Folien
+├── vorlage.html # Beispiel-Export als HTML
+└── README.md # Diese Anleitung
 ```
 
 > **Wichtig:** Die Dateien im Ordner `themes/` enthalten das zentrale Design der Präsentationen und **dürfen nicht verändert werden**.
@@ -46,7 +62,7 @@ Dies ist ein kollaborativer Workspace zur Erstellung von Vortragsfolien mit [Mar
    Mit folgendem Befehl wandelst du die Markdown-Datei in eine HTML-Präsentation um:
 
    ```bash
-   npx @marp-team/marp-cli vorlage.md --html --theme themes/webindex.css
+   marp vorlage.md --html --theme themes/webindex.css
    ```
 
    Danach findest du die fertige Präsentation als `vorlage.html` im Projektordner.
@@ -62,7 +78,7 @@ Dies ist ein kollaborativer Workspace zur Erstellung von Vortragsfolien mit [Mar
 Wenn du beim Bearbeiten der Folien automatisch eine Vorschau erzeugen möchtest:
 
 ```bash
-npx @marp-team/marp-cli vorlage.md --html --theme themes/webindex.css --watch
+marp vorlage.md --html --theme themes/webindex.css --watch
 ```
 
 ---
