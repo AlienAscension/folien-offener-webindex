@@ -36,7 +36,7 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-# 📖 Der Leitfaden – Ihre Unterstützung für den Workshop
+# 📖 Der Leitfaden – eine komplette Anleitung für einen Workshop
 ### Enthaltene Materialien:
 
 - 🧾 **Curriculum (10 Seiten)**  
