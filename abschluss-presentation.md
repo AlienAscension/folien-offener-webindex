@@ -20,7 +20,7 @@ footer: '© 2025 Team Workshop'
     - Vortragsfolien
     - Zeitplan für die Organisation
     - Regieplan für die Veranstaltung
-- #### Diversität: Herausforderungen und Gegenmaßnahmen
+- ### Diversität: Herausforderungen und Gegenmaßnahmen
 - ### Methodensammlung
 - ### Verantwortlichkeit des Workshops
 
