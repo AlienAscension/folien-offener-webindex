@@ -54,7 +54,7 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-## 📚 Der Leitfaden im Überblick
+## 📚 Das Curriculum im Überblick
 
 - **Curriculum als zentraler Bestandteil**
 - Ziel: Hilfe für Workshopleitung bei Einsteiger\*innenformat
