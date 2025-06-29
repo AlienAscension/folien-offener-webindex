@@ -20,7 +20,7 @@ footer: '© 2025 Team Workshop'
     - Vortragsfolien
     - Zeitplan für die Organisation
     - Regieplan für die Veranstaltung
-- ### Diversität: Herausforderungen und Gegenmaßnahmen
+- ### Diversität: Herausforderungen und Lösungsansätze
 - ### Methodensammlung
 - ### Verantwortlichkeit des Workshops
 
@@ -28,7 +28,7 @@ footer: '© 2025 Team Workshop'
 ---
 
 
-## 🧠 Hintergrund & Ziel des Workshops
+## Hintergrund & Ziel des Workshops
 
 - **Ziel:** Niedrigschwellige Wissensvermittlung & Partizipation
 - **Orientierung an:** Bürger Café, Netzwerk für Demokratie und Courage
@@ -36,25 +36,25 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-# 📖 Der Leitfaden – eine komplette Anleitung für einen Workshop
+## Der Leitfaden – eine komplette Anleitung für einen Workshop
 ### Enthaltene Materialien:
 
-- 🧾 **Curriculum (10 Seiten)**  
+- **Curriculum (10 Seiten)**  
   Hintergrund, Workshopaufbau & Durchführungstipps
 
-- 📊 **Präsentationsfolien (36 Slides)**  
+- **Präsentationsfolien (36 Slides)**  
   Inhalte anschaulich & teilnehmergerecht aufbereitet
 
-- 🗓️ **Zeitplan**  
+- **Zeitplan**  
   Schritt-für-Schritt-Ablauf inkl. Checklisten
 
-- 🎬 **Regieplan**  
+- **Regieplan**  
   Planung im Vorfeld: Werbung, Organisation, Logistik
 
 
 ---
 
-## 📚 Das Curriculum im Überblick
+## Das Curriculum im Überblick
 
 - **Curriculum als zentraler Bestandteil**
 - Ziel: Hilfe für Workshopleitung bei Einsteiger\*innenformat
@@ -66,7 +66,7 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-## 🎤 Die Präsentationsfolien für den Workshop
+## Die Präsentationsfolien für den Workshop
 
 - **36 Folien** begleitend zum Curriculum
 - Vermitteln den kompletten **inhaltlichen Ablauf** des Workshops
@@ -82,7 +82,7 @@ footer: '© 2025 Team Workshop'
 Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit wir Thematisch bei einander bleiben - Linus
 
 ---
-## 🌍 Diversität: Herausforderungen & Lösungen
+## Diversität: Herausforderungen & Lösungen
 
 ### Beispiel: Eltern mit Betreuungspflichten
 
@@ -97,23 +97,11 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 👥 Weitere Zielgruppen
-
-### Menschen mit niedriger Bildung
-
-- Einfache Sprache, Einführungsmodule
-
-### Menschen mit Migrationsgeschichte
-
-- Mehrsprachige Materialien, Dolmetscher\*innen
-
-### Senior\*innen
-
-- Analoge Formate, barrierefreie Orte
+![bg left:45%  width:750](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/refs/heads/main/media/Tabelle_divers.png)
 
 ---
 
-## 🛠️ Organisation & Planung
+## Organisation & Planung
 
 ### Zeitplan
 
@@ -123,7 +111,7 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 🎭 Regieplan
+## Regieplan
 
 - Enthält den Ablauf des Workshops
 - Teilweise enthalten: praktischer Teil (Mitmach-Oberfläche OWI noch in Arbeit)
@@ -131,7 +119,7 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 🎲 Methodensammlung (Auswahl)
+## Methodensammlung (Auswahl)
 
 - **P.L.A.Y.** – Gruppenermutigung
 - **Rundgespräch** – Kriterien erarbeiten
@@ -140,7 +128,7 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 👶 Parallelprogramm für Kinder
+## Parallelprogramm für Kinder
 
 - Ziel: Betreuung für Kinder (6–12 Jahre)
 - Idee: Workshop über Suchmaschinen für Kinder
@@ -149,7 +137,7 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 👤 Verantwortlichkeit & Durchführung
+## Verantwortlichkeit & Durchführung
 
 - Workshopleitung: Personen mit OWI-Kompetenz
 - Möglichkeit zur Qualifizierung (z. B. Mentorenmodell wie bei Wikipedia)
@@ -157,7 +145,7 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 🤝 Externe Kooperationen
+## Externe Kooperationen
 
 - Externe können:
 
@@ -173,9 +161,9 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 🧩 Noch offene Punkte
+## Noch offene Punkte
 
-- Design für Leitfaden ✅:
+- Design für Leitfaden:
 
   * Barrierefrei
   * Im OWI-Stil
