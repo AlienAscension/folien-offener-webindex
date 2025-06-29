@@ -79,7 +79,22 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit wir Thematisch bei einander bleiben - Linus
+## Organisation & Planung
+
+### Zeitplan
+
+- Enthält To-Dos und Fristen zur Workshop-Planung
+- Basierend auf: EU Citizen Science Plattform
+- Erfahrungswerte durch Bibliotheken einholen
+
+---
+
+## Regieplan
+
+- Enthält den Ablauf des Workshops
+- Teilweise enthalten: praktischer Teil (Mitmach-Oberfläche OWI noch in Arbeit)
+- Vorlage: Evaluationsbericht Bürgercafés Stuttgart
+
 
 ---
 ## Diversität: Herausforderungen & Lösungen
@@ -97,25 +112,8 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-![bg left:45%  width:750](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/refs/heads/main/media/Tabelle_divers.png)
+<img src="media/Tabelle_divers.png" alt="Tabelle" width="90%" />
 
----
-
-## Organisation & Planung
-
-### Zeitplan
-
-- Enthält To-Dos und Fristen zur Workshop-Planung
-- Basierend auf: EU Citizen Science Plattform
-- Erfahrungswerte durch Bibliotheken einholen
-
----
-
-## Regieplan
-
-- Enthält den Ablauf des Workshops
-- Teilweise enthalten: praktischer Teil (Mitmach-Oberfläche OWI noch in Arbeit)
-- Vorlage: Evaluationsbericht Bürgercafés Stuttgart
 
 ---
 
@@ -170,5 +168,3 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
   * Klar und ansprechend
 
 - Externe Partner gesucht (jenseits Fokus auf Senior\*innen)
-
----
