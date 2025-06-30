@@ -79,6 +79,16 @@ footer: '© 2025 Team Workshop'
 > **Ziel:** Die Folien ermöglichen eine konsistente, leicht durchführbare Workshop-Leitung – auch ohne Vorerfahrung.
 
 ---
+class: invert
+---
+<img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/owi_filie_1.png" width="90%" />
+
+---
+class: invert
+---
+<img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/owi_folie_2.png" width="90%" />
+
+---
 
 ## Organisation & Planung
 
@@ -104,8 +114,8 @@ footer: '© 2025 Team Workshop'
   <div class="text">
     <ul>
       <li>Enthält To-Dos und Fristen zur Workshop-Planung</li>
-      <li>Basierend auf: EU Citizen Science Plattform</li>
-      <li>Erfahrungswerte durch Bibliotheken einholen</li>
+      <li>Orientierung an: Keding, H. et al. (2024). Evaluationsbericht: Die Bürgercafés zum Stuttgarter Bürgerrat Klima.  </li>
+      <li>Erfahrungswerte durch Bibliotheken werden eingeholt</li>
     </ul>
   </div>
 </div>
@@ -133,7 +143,7 @@ footer: '© 2025 Team Workshop'
     <ul>
       <li>Enthält den Ablauf des Workshops</li>
       <li>Teilweise enthalten: praktischer Teil (Mitmach-Oberfläche OWI noch in Arbeit)</li>
-      <li>Vorlage: Evaluationsbericht Bürgercafés Stuttgart</li>
+      <li>Basierend auf: EU Citizen Science Plattform</li>
     </ul>
   </div>
 
@@ -186,15 +196,19 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-![bg width:900 height:250](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Mermaid_Chart-2025-06-04-130206.png)
+## Verantwortung für den Workshop
+
+![width:900 height:250](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Mermaid_Chart-2025-06-04-130206.png)
 
 ---
 
-![bg width:600 height:600](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Dashboard1.png)
+## Dashboard für Externe, Veranstaltungsorte etc. 
+
+![width:500 height:500](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Dashboard1.png)
 
 ---
 
-## Externe Kooperationen
+## In Arbeit - Externe Kooperationen
 
 - Externe können:
 
@@ -202,20 +216,31 @@ footer: '© 2025 Team Workshop'
   * Begleitveranstaltungen anbieten
   * Hürden für Zielgruppen abbauen
 
-- Beispiele:
-
-  * ichbinhier
-  * Digitaler Engel
-  * Deutschland sicher im Netz
+Die Externen können in der Institution, z. B. Bibliothek begleitende Veranstaltungen aus dem Themengebiet “Umgang und Nutzung von Suchmaschinen, Umgang mit digitalen Ressourcen im Internet, etc.” anbieten. 
+Die im Leitfaden angegeben Organisationen sollen Ideen für die durchführende Institution sein, sie sind kein Pflichtbestandteil des Workshops!
 
 ---
 
-## In Arbeit
+## Bisher gesammelte Organisationen
 
-- Design für Leitfaden:
+Bisherige mögliche Organisationen sind:
+* ichbinhier - Digitale Zivilcourage, Gegen Hass im Netz
+* Digitaler Engel - Förderung digitaler Teilhabe im Internet alter Menschen
+* Deutschland sicher im Netz - selbstbestimmter, sicherer Umgang im Netz
+
+Problem: bisher gefundene Organisationen fokussieren sich auf die Zielgruppe Senior*innen, nicht immer passt das Thema auf die Thematik des OWIs
+
+
+___
+
+## In Arbeit - Leitfadendesign
+
+Ein einheitliches Design für den Leitfaden wird noch erarbeitet. Es muss folgende Voraussetzungen erfüllen:
+
 
   * Barrierefrei
   * Im OWI-Stil
   * Klar und ansprechend
 
-- Externe Partner gesucht (jenseits Fokus auf Senior\*innen)
+  Eine vollkommen barrierefreie Gestaltung des Leitfadens wird im Rahmen dieses Projekts nicht möglich sein, es soll aber auf die Relevanz hingewiesen werden
+
