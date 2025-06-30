@@ -14,21 +14,21 @@ footer: '© 2025 Team Workshop'
 
 ## Inhalt
 
-- ### Hintergrund
-- ### Inhalt des Leitfadens
+- Hintergrund
+- Inhalt des Leitfadens
     - Curriculum
     - Vortragsfolien
     - Zeitplan für die Organisation
     - Regieplan für die Veranstaltung
-- ### Diversität: Herausforderungen und Gegenmaßnahmen
-- ### Methodensammlung
-- ### Verantwortlichkeit des Workshops
+- Diversität: Herausforderungen und Lösungsansätze
+- Methodensammlung
+- Verantwortlichkeit des Workshops
 
 
 ---
 
 
-## 🧠 Hintergrund & Ziel des Workshops
+## Hintergrund & Ziel des Workshops
 
 - **Ziel:** Niedrigschwellige Wissensvermittlung & Partizipation
 - **Orientierung an:** Bürger Café, Netzwerk für Demokratie und Courage
@@ -36,25 +36,25 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-# 📖 Der Leitfaden – eine komplette Anleitung für einen Workshop
+## Der Leitfaden – eine komplette Anleitung für einen Workshop
 ### Enthaltene Materialien:
 
-- 🧾 **Curriculum (10 Seiten)**  
+- **Curriculum (10 Seiten)**  
   Hintergrund, Workshopaufbau & Durchführungstipps
 
-- 📊 **Präsentationsfolien (36 Slides)**  
-  Inhalte anschaulich & teilnehmergerecht aufbereitet
-
-- 🗓️ **Zeitplan**  
-  Schritt-für-Schritt-Ablauf inkl. Checklisten
-
-- 🎬 **Regieplan**  
+- **Regieplan**  
   Planung im Vorfeld: Werbung, Organisation, Logistik
+
+ - **Zeitplan**  
+  Schritt-für-Schritt-Ablauf inkl. Checklisten 
+
+ - **Präsentationsfolien (36 Slides)**  
+  Inhalte anschaulich & teilnehmergerecht aufbereitet 
 
 
 ---
 
-## 📚 Das Curriculum im Überblick
+## Das Curriculum
 
 - **Curriculum als zentraler Bestandteil**
 - Ziel: Hilfe für Workshopleitung bei Einsteiger\*innenformat
@@ -63,10 +63,11 @@ footer: '© 2025 Team Workshop'
   - Vorbereitung (Ziele, Ablauf, Organisation)
   - Durchführung (Einführung, OWI-Hintergrund, Kuratierung)
   - Mitmachphase (Tools & Übungen)
+  - Nachbereitung (Dokumentation & Auswertung)
 
 ---
 
-## 🎤 Die Präsentationsfolien für den Workshop
+## Die Präsentationsfolien für den Workshop
 
 - **36 Folien** begleitend zum Curriculum
 - Vermitteln den kompletten **inhaltlichen Ablauf** des Workshops
@@ -79,10 +80,68 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit wir Thematisch bei einander bleiben - Linus
+## Organisation & Planung
+
+### Zeitplan
+
+<style>
+.flex-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+.flex-row img {
+  width: 40%;
+}
+.flex-row .text {
+  flex: 1;
+}
+</style>
+
+<div class="flex-row">
+  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Regieplan%20Kopie.png" alt="Regieplan" />
+
+  <div class="text">
+    <ul>
+      <li>Enthält To-Dos und Fristen zur Workshop-Planung</li>
+      <li>Basierend auf: EU Citizen Science Plattform</li>
+      <li>Erfahrungswerte durch Bibliotheken einholen</li>
+    </ul>
+  </div>
+</div>
 
 ---
-## 🌍 Diversität: Herausforderungen & Lösungen
+
+## Regieplan
+
+<style>
+.flex-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+.flex-row img {
+  width: 60%;
+}
+.flex-row .text {
+  flex: 1;
+}
+</style>
+
+<div class="flex-row">
+  <div class="text">
+    <ul>
+      <li>Enthält den Ablauf des Workshops</li>
+      <li>Teilweise enthalten: praktischer Teil (Mitmach-Oberfläche OWI noch in Arbeit)</li>
+      <li>Vorlage: Evaluationsbericht Bürgercafés Stuttgart</li>
+    </ul>
+  </div>
+
+  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Zeitplan%20Kopie.png" alt="Regieplan" />
+</div>
+
+---
+## Diversität: Herausforderungen & Lösungen
 
 ### Beispiel: Eltern mit Betreuungspflichten
 
@@ -97,41 +156,11 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 👥 Weitere Zielgruppen
-
-### Menschen mit niedriger Bildung
-
-- Einfache Sprache, Einführungsmodule
-
-### Menschen mit Migrationsgeschichte
-
-- Mehrsprachige Materialien, Dolmetscher\*innen
-
-### Senior\*innen
-
-- Analoge Formate, barrierefreie Orte
+<img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Tabelle_divers.png" width="90%"/>
 
 ---
 
-## 🛠️ Organisation & Planung
-
-### Zeitplan
-
-- Enthält To-Dos und Fristen zur Workshop-Planung
-- Basierend auf: EU Citizen Science Plattform
-- Erfahrungswerte durch Bibliotheken einholen
-
----
-
-## 🎭 Regieplan
-
-- Enthält den Ablauf des Workshops
-- Teilweise enthalten: praktischer Teil (Mitmach-Oberfläche OWI noch in Arbeit)
-- Vorlage: Evaluationsbericht Bürgercafés Stuttgart
-
----
-
-## 🎲 Methodensammlung (Auswahl)
+## Methodensammlung (Auswahl)
 
 - **P.L.A.Y.** – Gruppenermutigung
 - **Rundgespräch** – Kriterien erarbeiten
@@ -140,7 +169,7 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 👶 Parallelprogramm für Kinder
+## Parallelprogramm für Kinder
 
 - Ziel: Betreuung für Kinder (6–12 Jahre)
 - Idee: Workshop über Suchmaschinen für Kinder
@@ -149,7 +178,7 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 👤 Verantwortlichkeit & Durchführung
+## Verantwortlichkeit & Durchführung
 
 - Workshopleitung: Personen mit OWI-Kompetenz
 - Möglichkeit zur Qualifizierung (z. B. Mentorenmodell wie bei Wikipedia)
@@ -157,7 +186,15 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 🤝 Externe Kooperationen
+![bg width:900 height:250](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Mermaid_Chart-2025-06-04-130206.png)
+
+---
+
+![bg width:600 height:600](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Dashboard1.png)
+
+---
+
+## Externe Kooperationen
 
 - Externe können:
 
@@ -173,14 +210,12 @@ Hier würde ich die Folien für den Zeitplan und den Regieplan einfügen, damit 
 
 ---
 
-## 🧩 Noch offene Punkte
+## In Arbeit
 
-- Design für Leitfaden ✅:
+- Design für Leitfaden:
 
   * Barrierefrei
   * Im OWI-Stil
   * Klar und ansprechend
 
 - Externe Partner gesucht (jenseits Fokus auf Senior\*innen)
-
----
