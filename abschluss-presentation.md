@@ -14,15 +14,15 @@ footer: '© 2025 Team Workshop'
 
 ## Inhalt
 
-- ### Hintergrund
-- ### Inhalt des Leitfadens
+- Hintergrund
+- Inhalt des Leitfadens
     - Curriculum
     - Vortragsfolien
     - Zeitplan für die Organisation
     - Regieplan für die Veranstaltung
-- ### Diversität: Herausforderungen und Lösungsansätze
-- ### Methodensammlung
-- ### Verantwortlichkeit des Workshops
+- Diversität: Herausforderungen und Lösungsansätze
+- Methodensammlung
+- Verantwortlichkeit des Workshops
 
 
 ---
@@ -42,19 +42,19 @@ footer: '© 2025 Team Workshop'
 - **Curriculum (10 Seiten)**  
   Hintergrund, Workshopaufbau & Durchführungstipps
 
-- **Präsentationsfolien (36 Slides)**  
-  Inhalte anschaulich & teilnehmergerecht aufbereitet
-
-- **Zeitplan**  
-  Schritt-für-Schritt-Ablauf inkl. Checklisten
-
 - **Regieplan**  
   Planung im Vorfeld: Werbung, Organisation, Logistik
+
+ - **Zeitplan**  
+  Schritt-für-Schritt-Ablauf inkl. Checklisten 
+
+ - **Präsentationsfolien (36 Slides)**  
+  Inhalte anschaulich & teilnehmergerecht aufbereitet 
 
 
 ---
 
-## Das Curriculum im Überblick
+## Das Curriculum
 
 - **Curriculum als zentraler Bestandteil**
 - Ziel: Hilfe für Workshopleitung bei Einsteiger\*innenformat
@@ -63,6 +63,7 @@ footer: '© 2025 Team Workshop'
   - Vorbereitung (Ziele, Ablauf, Organisation)
   - Durchführung (Einführung, OWI-Hintergrund, Kuratierung)
   - Mitmachphase (Tools & Übungen)
+  - Nachbereitung (Dokumentation & Auswertung)
 
 ---
 
@@ -83,18 +84,61 @@ footer: '© 2025 Team Workshop'
 
 ### Zeitplan
 
-- Enthält To-Dos und Fristen zur Workshop-Planung
-- Basierend auf: EU Citizen Science Plattform
-- Erfahrungswerte durch Bibliotheken einholen
+<style>
+.flex-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+.flex-row img {
+  width: 40%;
+}
+.flex-row .text {
+  flex: 1;
+}
+</style>
+
+<div class="flex-row">
+  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Regieplan%20Kopie.png" alt="Regieplan" />
+
+  <div class="text">
+    <ul>
+      <li>Enthält To-Dos und Fristen zur Workshop-Planung</li>
+      <li>Basierend auf: EU Citizen Science Plattform</li>
+      <li>Erfahrungswerte durch Bibliotheken einholen</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ## Regieplan
 
-- Enthält den Ablauf des Workshops
-- Teilweise enthalten: praktischer Teil (Mitmach-Oberfläche OWI noch in Arbeit)
-- Vorlage: Evaluationsbericht Bürgercafés Stuttgart
+<style>
+.flex-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+.flex-row img {
+  width: 60%;
+}
+.flex-row .text {
+  flex: 1;
+}
+</style>
 
+<div class="flex-row">
+  <div class="text">
+    <ul>
+      <li>Enthält den Ablauf des Workshops</li>
+      <li>Teilweise enthalten: praktischer Teil (Mitmach-Oberfläche OWI noch in Arbeit)</li>
+      <li>Vorlage: Evaluationsbericht Bürgercafés Stuttgart</li>
+    </ul>
+  </div>
+
+  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Zeitplan%20Kopie.png" alt="Regieplan" />
+</div>
 
 ---
 ## Diversität: Herausforderungen & Lösungen
@@ -112,8 +156,7 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-<img src="media/Tabelle_divers.png" alt="Tabelle" width="90%" />
-
+<img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Tabelle_divers.png" width="90%"/>
 
 ---
 
@@ -143,6 +186,14 @@ footer: '© 2025 Team Workshop'
 
 ---
 
+![bg width:900 height:250](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Mermaid_Chart-2025-06-04-130206.png)
+
+---
+
+![bg width:600 height:600](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Dashboard1.png)
+
+---
+
 ## Externe Kooperationen
 
 - Externe können:
@@ -159,7 +210,7 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-## Noch offene Punkte
+## In Arbeit
 
 - Design für Leitfaden:
 
