@@ -42,10 +42,10 @@ footer: '© 2025 Team Workshop'
 - **Curriculum (10 Seiten)**  
   Hintergrund, Workshopaufbau & Durchführungstipps
 
-- **Regieplan**  
+- **Zeitplan**  
   Planung im Vorfeld: Werbung, Organisation, Logistik
 
- - **Zeitplan**  
+ - **Regieplan**  
   Schritt-für-Schritt-Ablauf inkl. Checklisten 
 
  - **Präsentationsfolien (36 Slides)**  
@@ -80,12 +80,14 @@ footer: '© 2025 Team Workshop'
 > **Ziel:** Die Folien ermöglichen eine konsistente, leicht durchführbare Workshop-Leitung – auch ohne Vorerfahrung.
 
 ---
-class: invert
----
+
+<!-- _class: invert -->
 
 <img src="https://raw.githubusercontent.com/maomao233-cell/folien-offener-webindex/abschluss-pr%C3%A4si/media/owi_filie_1.png" width="90%" />
 
 ---
+
+<!-- _class: invert -->
 
 <img src="https://raw.githubusercontent.com/maomao233-cell/folien-offener-webindex/abschluss-pr%C3%A4si/media/owi_folie_2.png" width="90%" />
 
@@ -95,31 +97,9 @@ class: invert
 
 ### Zeitplan
 
-<style>
-.flex-row {
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem;
-}
-.flex-row img {
-  width: 40%;
-}
-.flex-row .text {
-  flex: 1;
-}
-</style>
-
-<div class="flex-row">
-  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Regieplan%20Kopie.png" alt="Regieplan" />
-
-  <div class="text">
-    <ul>
-      <li>Enthält To-Dos und Fristen zur Workshop-Planung</li>
-      <li>Orientierung an: Keding, H. et al. (2024). Evaluationsbericht: Die Bürgercafés zum Stuttgarter Bürgerrat Klima.  </li>
-      <li>Erfahrungswerte durch Bibliotheken werden eingeholt</li>
-    </ul>
-  </div>
-</div>
+- Enthält To-Dos und Fristen zur Workshop-Planung
+- Orientierung an: Keding, H. et al. (2024). Evaluationsbericht: Die Bürgercafés zum Stuttgarter Bürgerrat Klima. 
+- Erfahrungswerte durch Bibliotheken werden eingeholt
 
 ---
 
@@ -206,7 +186,8 @@ class: invert
     </ul>
   </div>
 
-  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/kinderprogramm.png" alt="Kinderprogramm" />
+  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/abschluss-präsi/media/broschuere.png
+  " alt="Kinderprogramm" />
 </div>
 
 ---
