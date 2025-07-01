@@ -16,14 +16,14 @@ footer: '© 2025 Team Workshop'
 
 - Hintergrund
 - Inhalt des Leitfadens
-    - Curriculum
-    - Vortragsfolien
-    - Zeitplan für die Organisation
-    - Regieplan für die Veranstaltung
+  - Curriculum  
+  - Vortragsfolien  
+  - Zeitplan für die Organisation  
+  - Regieplan für die Veranstaltung
+
 - Diversität: Herausforderungen und Lösungsansätze
 - Methodensammlung
 - Verantwortlichkeit des Workshops
-
 
 ---
 
@@ -72,6 +72,7 @@ footer: '© 2025 Team Workshop'
 - **36 Folien** begleitend zum Curriculum
 - Vermitteln den kompletten **inhaltlichen Ablauf** des Workshops
 - Enthalten:
+
   - Tipps für die Moderation  
   - **Speaker Notes** mit Hintergrundinfos und Zeitangaben  
   - Interaktive Elemente, Visualisierungen und Übungen
@@ -81,12 +82,12 @@ footer: '© 2025 Team Workshop'
 ---
 class: invert
 ---
-<img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/owi_filie_1.png" width="90%" />
+
+<img src="https://raw.githubusercontent.com/maomao233-cell/folien-offener-webindex/abschluss-pr%C3%A4si/media/owi_filie_1.png" width="90%" />
 
 ---
-class: invert
----
-<img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/owi_folie_2.png" width="90%" />
+
+<img src="https://raw.githubusercontent.com/maomao233-cell/folien-offener-webindex/abschluss-pr%C3%A4si/media/owi_folie_2.png" width="90%" />
 
 ---
 
@@ -158,9 +159,9 @@ class: invert
 - Herausforderung: Zeitmangel, keine Betreuung
 - Lösung:
 
-  * Kinderprogramm
-  * Flexible Zeiten
-  * Online-/Hybrid-Angebote
+  - Kinderprogramm
+  - Flexible Zeiten
+  - Online-/Hybrid-Angebote
 
 *(weitere Zielgruppen folgen auf den nächsten Folien)*
 
@@ -181,10 +182,32 @@ class: invert
 
 ## Parallelprogramm für Kinder
 
-- Ziel: Betreuung für Kinder (6–12 Jahre)
-- Idee: Workshop über Suchmaschinen für Kinder
-- Bezug: Materialien der Open Search Foundation
-- Noch nicht im Arbeitspaket ausgearbeitet
+<style>
+.flex-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+.flex-row img {
+  width: 60%;
+}
+.flex-row .text {
+  flex: 1;
+}
+</style>
+
+<div class="flex-row">
+  <div class="text">
+    <ul>
+      <li><strong>Ziel:</strong> Betreuung für Kinder (6–12 Jahre)</li>
+      <li><strong>Idee:</strong> Workshop über Suchmaschinen für Kinder</li>
+      <li><strong>Bezug:</strong> Materialien der Open Search Foundation</li>
+      <li><strong>Status:</strong> Noch nicht im Arbeitspaket ausgearbeitet</li>
+    </ul>
+  </div>
+
+  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/kinderprogramm.png" alt="Kinderprogramm" />
+</div>
 
 ---
 
@@ -212,9 +235,9 @@ class: invert
 
 - Externe können:
 
-  * Fachwissen einbringen
-  * Begleitveranstaltungen anbieten
-  * Hürden für Zielgruppen abbauen
+  - Fachwissen einbringen
+  - Begleitveranstaltungen anbieten
+  - Hürden für Zielgruppen abbauen
 
 Die Externen können in der Institution, z. B. Bibliothek begleitende Veranstaltungen aus dem Themengebiet “Umgang und Nutzung von Suchmaschinen, Umgang mit digitalen Ressourcen im Internet, etc.” anbieten. 
 Die im Leitfaden angegeben Organisationen sollen Ideen für die durchführende Institution sein, sie sind kein Pflichtbestandteil des Workshops!
@@ -224,9 +247,9 @@ Die im Leitfaden angegeben Organisationen sollen Ideen für die durchführende I
 ## Bisher gesammelte Organisationen
 
 Bisherige mögliche Organisationen sind:
-* ichbinhier - Digitale Zivilcourage, Gegen Hass im Netz
-* Digitaler Engel - Förderung digitaler Teilhabe im Internet alter Menschen
-* Deutschland sicher im Netz - selbstbestimmter, sicherer Umgang im Netz
+- ichbinhier - Digitale Zivilcourage, Gegen Hass im Netz
+- Digitaler Engel - Förderung digitaler Teilhabe im Internet alter Menschen
+- Deutschland sicher im Netz - selbstbestimmter, sicherer Umgang im Netz
 
 Problem: bisher gefundene Organisationen fokussieren sich auf die Zielgruppe Senior*innen, nicht immer passt das Thema auf die Thematik des OWIs
 
@@ -238,9 +261,9 @@ ___
 Ein einheitliches Design für den Leitfaden wird noch erarbeitet. Es muss folgende Voraussetzungen erfüllen:
 
 
-  * Barrierefrei
-  * Im OWI-Stil
-  * Klar und ansprechend
+  - Barrierefrei
+  - Im OWI-Stil
+  - Klar und ansprechend
 
   Eine vollkommen barrierefreie Gestaltung des Leitfadens wird im Rahmen dieses Projekts nicht möglich sein, es soll aber auf die Relevanz hingewiesen werden
 
