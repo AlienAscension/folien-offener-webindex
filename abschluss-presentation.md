@@ -42,14 +42,16 @@ footer: '© 2025 Team Workshop'
 - **Curriculum (10 Seiten)**  
   Hintergrund, Workshopaufbau & Durchführungstipps
 
+- **Präsentationsfolien (36 Slides)**  
+  Inhalte anschaulich & teilnehmergerecht aufbereitet 
+
 - **Zeitplan**  
   Planung im Vorfeld: Werbung, Organisation, Logistik
 
  - **Regieplan**  
   Schritt-für-Schritt-Ablauf inkl. Checklisten 
 
- - **Präsentationsfolien (36 Slides)**  
-  Inhalte anschaulich & teilnehmergerecht aufbereitet 
+
 
 
 ---
