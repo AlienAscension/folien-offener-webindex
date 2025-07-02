@@ -130,7 +130,7 @@ footer: '© 2025 Team Workshop'
     </ul>
   </div>
 
-  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Zeitplan%20Kopie.png" alt="Regieplan" />
+  <img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/abschluss-präsi/media/Zeitplan%20Kopie.png" alt="Regieplan" />
 </div>
 
 ---
@@ -149,7 +149,7 @@ footer: '© 2025 Team Workshop'
 
 ---
 
-<img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Tabelle_divers.png" width="90%"/>
+<img src="https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/abschluss-präsi/media/Tabelle_divers.png" width="90%"/>
 
 ---
 
@@ -204,13 +204,13 @@ footer: '© 2025 Team Workshop'
 
 ## Verantwortung für den Workshop
 
-![width:900 height:250](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Mermaid_Chart-2025-06-04-130206.png)
+![width:900 height:250](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/abschluss-präsi/media/Mermaid_Chart-2025-06-04-130206.png)
 
 ---
 
 ## Dashboard für Externe, Veranstaltungsorte etc. 
 
-![width:500 height:500](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/main/media/Dashboard1.png)
+![width:500 height:500](https://raw.githubusercontent.com/AlienAscension/folien-offener-webindex/abschluss-präsi/media/Dashboard1.png)
 
 ---
 
